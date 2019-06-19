@@ -1,4 +1,4 @@
 <?php
-echo "Selamat Hari Natal";
+echo "Selamat Hari Natal" <br>
 echo "Selamat Hari Raya"
 ?>
