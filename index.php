@@ -1,8 +1,3 @@
 <?php
-<<<<<<< HEAD
-echo "Hello World"
+echo "Selamat Hari Natal"
 ?>
-=======
-echo "Happy Chinese New Year"
-g?>
->>>>>>> ui
